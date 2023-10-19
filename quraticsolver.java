@@ -3,9 +3,9 @@ public class quraticsolver {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a = 4;
+		int a = 9;
 		int b = 7;
-		int c = 4;
+		int c = 8;
 		if (b*b - 4*a*c <0)
 			System.out.println("This equation " + a + "x^2 + " + b +"x + " + c +" has no solution");
 		else
